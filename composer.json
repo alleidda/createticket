@@ -1,0 +1,15 @@
+{
+    "name": "addiella/geometrie",
+    "autoload": {
+       "classmap": [
+           "classes"
+       ]
+    },
+    "authors": [
+        {
+            "name": "alleidda",
+            "email": "aaddiella@gmail.com"
+        }
+    ],
+    "require": {}
+}
